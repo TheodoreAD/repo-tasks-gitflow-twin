@@ -1,6 +1,6 @@
 [project]
 name = "repo-tasks-gitflow-twin"
-version = "0.6.2"
+version = "0.7.0"
 description = "Test target for repo-tasks' gitflow PR-mode tasks. Not a project."
 requires-python = ">=3.11"
 dependencies = []
